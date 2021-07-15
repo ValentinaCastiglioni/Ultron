@@ -1,4 +1,4 @@
-# Ultron
+# SPEAR for ULTRON
 
 This is an add-on to the SPEAR tool (https://github.com/quasylab/spear), related to project ULTRON.
 
