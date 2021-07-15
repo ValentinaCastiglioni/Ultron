@@ -33,7 +33,7 @@ In tanks_error.py we provide a simple tool for the estimation of the error that 
 
 To download SPEAR you have just to clone GitHub project:
 
-git clone https://github.com/Ultron.git
+git clone https://github.com/ValentinaCastiglioni/Ultron.git
 
 Run this command in the folder where you want to download the tool.
 How to run experiments
